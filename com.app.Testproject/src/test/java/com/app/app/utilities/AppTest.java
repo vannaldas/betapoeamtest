@@ -1,20 +1,21 @@
 package com.app.app.utilities;
 
-import static org.junit.Assert.assertTrue;
+import org.testng.annotations.Test;
 
-import org.junit.Test;
-
-/**
- * Unit test for simple App.
- */
 public class AppTest 
 {
-    /**
-     * Rigorous Test :-)
-     */
+    
     @Test
-    public void shouldAnswerWithTrue()
+    public void veryfytest()
     {
-        assertTrue( true );
+     System.out.println("first test");
+     System.out.println("second test");
+     System.out.println("third test");
+     System.out.println("forth test");
+     System.out.println("fifth test");
+     
+     
+     
+     
     }
 }
